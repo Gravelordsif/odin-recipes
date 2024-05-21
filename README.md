@@ -1,1 +1,1 @@
-# odin-recipes
+Creating site to demonstrate basic html functions, including links, headers, paragraphs and images
